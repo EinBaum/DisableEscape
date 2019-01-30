@@ -1,0 +1,10 @@
+## Interface: 11200
+## Title: Disable|cff60ff00Escape|r
+## Notes: Disables escape button cancelling party invites and summons
+## Author: EinBaum
+## Version: 1.0.0
+## SavedVariables: 
+## Dependencies: 
+## OptionalDeps:
+
+DisableEscape.lua
